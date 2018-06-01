@@ -1,0 +1,5 @@
+1) git +
+// monday 
+2) responsive for 320 to 1200
+3) slider
+4) tabs
